@@ -11,8 +11,8 @@ import {
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 
 const { width: SCREEN_WIDTH } = Dimensions.get("window");
-const API_KEY = "28712e7eb1201c7286b2bc8ef6876262";
-//"991afbc11c26ddcf2c0713d747cfcd4e"
+// const API_KEY = hidden for public view;
+//
 const icons = {
   Clear: "weather-sunny",
   Clouds: "weather-cloudy",
